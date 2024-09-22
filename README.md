@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Danica. Welcome to my profile.</h1>
-<h3 align="center">Danica is a Data Analyst career shifter with 5+ years experience working with data.</h3>
+<h3 align="center">I've made a career pivot to Data Analytics. I have over 5 years experience working with data.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danicadais&label=Profile%20views&color=0e75b6&style=flat" alt="danicadais" /> </p>
 
